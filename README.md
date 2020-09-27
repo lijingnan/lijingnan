@@ -2,9 +2,9 @@
 
 🌱 I’m currently learning and trying to become a technologist.
 
-Now, mainly engaged in Android programming.
+🤔 Now, mainly engaged in Android programming.
 
-Increased basic computer knowledge.
+⚡ Increased basic computer knowledge.
 
 <!--
 **lijingnan/lijingnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
