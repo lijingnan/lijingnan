@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-I'm beasy.
+🌱 I’m currently learning and trying to become a technologist.
+
+Now, mainly engaged in Android programming.
+
+Increased basic computer knowledge.
 
 <!--
 **lijingnan/lijingnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
